@@ -21,5 +21,5 @@
   <img src="https://img.shields.io/badge/PHP-black?style=flat&logo=php">
 </p>
 <p>
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=thomas-souchet&hide=css,powershell,html&layout=compact&theme=noctis_minimus">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=thomas-souchet&hide=css,powershell,html&layout=compact&theme=swift">
 </p>
